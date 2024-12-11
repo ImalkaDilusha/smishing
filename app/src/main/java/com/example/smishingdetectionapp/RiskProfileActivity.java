@@ -31,7 +31,7 @@ public class RiskProfileActivity extends AppCompatActivity {
 
         // Simulated data for testing
         int flaggedLinks = 2; // Example value
-        int flaggedSenders = 3; // Example value
+        int flaggedSenders =4; // Example value
 
         // Log debug information
         Log.d("RiskProfileActivity", "Flagged Links: " + flaggedLinks + ", Flagged Senders: " + flaggedSenders);
