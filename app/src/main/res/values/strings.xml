@@ -298,6 +298,8 @@
             These terms and conditions shall be governed by and construed in accordance with the laws of Australia. Any disputes arising from or relating to these terms and conditions shall be subject to the exclusive jurisdiction of the courts in Australia.</li>
         </ul>
         ]]>
+
+
     </string>
     <string name="back_button_desc" />
     <string name="imalka_dilusha">Imalka Dilusha</string>
@@ -320,4 +322,18 @@
     <string name="your_risk_advice_will_appear_here">Your risk advice will appear here.</string>
 
 
+
+
+
+    <!-- Added Feedback Strings -->
+<string name="feedback_title">Feedback</string>
+<string name="feedback_subtitle">We appreciate your feedback!</string>
+<string name="emoji_angry">Angry Emoji</string>
+<string name="emoji_sad">Sad Emoji</string>
+<string name="emoji_neutral">Neutral Emoji</string>
+<string name="emoji_happy">Happy Emoji</string>
+<string name="emoji_excited">Excited Emoji</string>
+<string name="feedback_hint">Write your feedback here...</string>
+<string name="submit">Submit</string>
+<string name="back_button_description">Go back to the previous screen</string>
 </resources>
