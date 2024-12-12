@@ -216,7 +216,7 @@
     <!-- General Buttons -->
     <string name="save_button">Save</string>
     <string name="cancel_button">Cancel</string>
-    <string name="button_profile">Profile</string>
+    <string name="profile_button_desc">Profile</string>
 
 
     <!-- Edit Text Hints -->
