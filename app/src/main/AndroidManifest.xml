@@ -65,7 +65,7 @@
             android:name=".ui.Register.EmailVerify"
             android:exported="true" />
         <activity
-            android:name=".ui.account.AccountActivity"
+            android:name=".ui.account.AccountActivity"/>
 
     <!-- Existing activities -->
     <activity
@@ -138,7 +138,7 @@
     <activity
         android:name=".chat.ChatAssistantActivity"
         android:exported="false"
-        android:label="@string/chat_assistant_page" />
+         />
 
 
     </application>

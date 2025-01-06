@@ -100,4 +100,7 @@ public class PopupDEL extends AppCompatActivity {
     private void saveDeletionDate(Date deletionDate) {
         // Placeholder for saving the deletion date in the database
     }
+
+    public void show(FragmentManager supportFragmentManager, String deleteAccountModalBottomSheet) {
+    }
 }
